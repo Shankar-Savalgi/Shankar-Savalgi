@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 AI & Data Science Student  
+🎓 AI & Machine Learning Student  
 🤖 Aspiring AI Engineer  
 📊 Machine Learning Enthusiast  
 
@@ -16,7 +16,7 @@
 
 # 💡 About Me
 
-I’m an **AI & Data Science student** focused on building **intelligent systems that solve real-world problems**.
+I’m an **AI & Machine Learning student** focused on building **intelligent systems that solve real-world problems**.
 
 🎓 Currently pursuing:
 
