@@ -48,7 +48,7 @@ I’m an **AI & Data Science student** passionate about building **intelligent s
 
 • **B.E in Artificial Intelligence & Machine Learning**
 
-• **AI & Data Science Program – IIT Indore (Drishti CPS)**
+• **AI & Data Science @ Drishti CPS IIT Indore**
 
 
 I enjoy combining **mathematics, data, and algorithms** to build impactful AI solutions.
